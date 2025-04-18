@@ -1,8 +1,8 @@
 <tr/><tr/><tr/><h1>DeepFake Video Detction Project</h1>
 
-About the Project -
+<b>About the Project -<b/>
 <br/>
-<b> Its a Combination of Multiple deep learning models to identify the difference between deepfake and real videos.<b/> <br/><br/>
+Its a Combination of Multiple deep learning models to identify the difference between deepfake and real videos. <br/><br/>
 
 Audio Testing model - test the spectographic image of the audio signal. Use CNN layer on the imgaes obtained from the audio files. <br/>
 Video Testing models - 3 models <br/>
