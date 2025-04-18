@@ -1,6 +1,6 @@
-<h1>DeepFake Video Detction Project</h1>
+#DeepFake Video Detction Project
 
-*About the Project -*
+**About the Project -**
 <br/>
 Its a Combination of Multiple deep learning models to identify the difference between deepfake and real videos. <br/><br/>
 
