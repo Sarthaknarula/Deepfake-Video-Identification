@@ -1,4 +1,4 @@
-#DeepFake Video Detction Project
+# DeepFake Video Detection Project
 
 **About the Project -**
 <br/>
